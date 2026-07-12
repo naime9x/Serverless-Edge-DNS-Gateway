@@ -3,6 +3,10 @@
 
 A secure, high-performance DNS-over-HTTPS (DoH) proxy running on Cloudflare's global Edge via Pages Functions. Optimized for speed, geographic accuracy (ECS), and professional adblocking.
 
+<p align="center">
+  <img src="https://img.bibica.net/0Biaw3bp.webp" alt="ECS">
+</p>
+
 ---
 
 ## ⚡ Key Features
