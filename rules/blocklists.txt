@@ -2239,7 +2239,6 @@
 5wzew9jht.com
 5wzgtq8dpk.com
 5xdz5pz072.com
-5xppss11.com
 5xvtbbvb6.com
 5xxvm.celebratevitamins.at
 5xxvm.celebratevitamins.bg
@@ -3752,7 +3751,6 @@ a.sellpoint.net
 a.share-dns.com
 a.shemale99.com
 a.shenchuang.com
-a.shortenlink.store
 a.shukriya90.com
 a.shutterfly.com
 a.simonandschuster.com
@@ -9949,7 +9947,6 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
-ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.bstage.in
@@ -10016,6 +10013,7 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
+ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -15976,6 +15974,7 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
+analytics-conomi.line.me
 analytics-data.classlink.com
 analytics-data.io
 analytics-dataplane.invideo.io
@@ -17735,6 +17734,7 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
+analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopdutyfree.com
@@ -21344,7 +21344,6 @@ app.wsucougars.com
 app.wts2.one
 app.wumii.com
 app.wvusports.com
-app.xdrig.com
 app.xizi.com
 app.yesware.com
 app.your.csc.com
@@ -33248,7 +33247,6 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.srxy.xyz
@@ -40515,6 +40513,7 @@ cse.mybluehost.me
 cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
+csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csfuiuwdubtyr.online
@@ -45957,7 +45956,6 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
-data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -60857,7 +60855,6 @@ flags.es
 flagsportclamour.com
 flagstonefoundingmonotype.com
 flahjmplwrzgc.space
-flairads.com
 flairadscpc.com
 flairadscpc.xml-eu.ak-is2.net
 flakyfeast.com
@@ -97201,7 +97198,6 @@ marketing.impexium.com
 marketing.inaani.com
 marketing.incrediwear.com
 marketing.indianadunes.com
-marketing.industrialspec.com
 marketing.inex.com
 marketing.influitive.com
 marketing.infogrouptargeting.com
@@ -110211,7 +110207,6 @@ nybfae.face-factory.com
 nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
-nyceov.life.ru
 nychi2.outbrain.com
 nychi2.outbrain.org
 nycjuaeiuzhxe.site
@@ -117088,7 +117083,6 @@ papayads.net
 papayads.rtb.adtarget.biz
 papayamobile.com
 papcorerush.live
-papdanss.store
 papelonkokoona.com
 papemz.rcwilley.com
 papercups.s3.us-east-2.amazonaws.com
@@ -121395,7 +121389,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -134079,6 +134072,7 @@ s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
 s.domob.cn
+s.doyo.cn
 s.dpcq1.net
 s.dpmsrv.com
 s.dreamland-plc.com
@@ -134584,6 +134578,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -149180,7 +149175,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -156123,6 +156117,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -165244,7 +165239,6 @@ stocktheme.com
 stoen.solacebands.com
 stoic-media.com
 stolecutting.com
-stolen.tax
 stoletellsgets.com
 stomachmallow.com
 stomachscience.com
@@ -174246,6 +174240,7 @@ tr.ds.kakao.com
 tr.dulsco.com
 tr.dxmcdn.com
 tr.e-mail.axa.fr
+tr.e-mail.axabanque.fr
 tr.e-travaux.info
 tr.e.entreprise-pm.fr
 tr.e.entreprise-pm.net
@@ -191829,6 +191824,7 @@ www.hibids10.com
 www.hiewa.com.my
 www.higame123.com
 www.higherteam.com
+www.highgg.com
 www.hipmarket.com
 www.hippoobox.com
 www.histats.com
@@ -197160,7 +197156,6 @@ yyapp-mlog.bigda.com
 yyauzedlqv.com
 yyb.eve.mdt.qq.com
 yyb.str.mdt.qq.com
-yybbxctlo.com
 yybrtm.ru-mi.com
 yycgyufotxqxy.space
 yydsmr.com
