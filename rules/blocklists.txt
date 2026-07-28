@@ -7659,6 +7659,7 @@ ad.uwm.edu
 ad.v6.kuaishou.cn
 ad.vacanceo.com
 ad.val.jp
+ad.velomania.ru
 ad.vera.bet.br
 ad.verda2.akadns.net
 ad.video-mech.ru
@@ -11421,6 +11422,7 @@ adserver.virginmedia.com
 adserver.vrizead.com
 adserver.waggonerguide.com
 adserver.weblogic-studio.com
+adserver.webproxy.idc-lorien21swww.bltheluxurystorontor.mgmt.toronto.ups.com.cn
 adserver.wenxuecity.com
 adserver.wolterskluwer.pl
 adserver.yahoo.com
@@ -15057,6 +15059,7 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
+allfail-www.all.adadvisor.net
 allfail-www.east.adadvisor.net
 allfail-www.west.adadvisor.net
 allfile.me
@@ -21256,6 +21259,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -21391,7 +21395,6 @@ app.wsucougars.com
 app.wts2.one
 app.wumii.com
 app.wvusports.com
-app.xdrig.com
 app.xizi.com
 app.yesware.com
 app.your.csc.com
@@ -33316,7 +33319,6 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.srxy.xyz
@@ -40369,7 +40371,6 @@ crowcanyon.com
 crowd.novaon.asia
 crowded-you.pro
 crowdedmass.com
-crowdgravity.com
 crowdignite.com
 crowdscience.com
 crowdskout.com
@@ -40617,7 +40618,6 @@ cse.mybluehost.me
 cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
-csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csfuiuwdubtyr.online
@@ -52897,6 +52897,7 @@ dysenteryanywhere.com
 dysuze6ljcmcr.cloudfront.net
 dytt2028.cc
 dytuj6zs26.com
+dyupbydns.com
 dyv1bugovvq1g.cloudfront.net
 dyvkswbqkgfhp.space
 dyvourdrossed.cfd
@@ -60584,7 +60585,6 @@ findbetterresults.com
 findcalculator.com
 findclicksaveopen.click
 findclicksaveopen.monster
-findcommerce.com
 findcompere.com
 findcouponspromos.com
 finddatinglocally.com
@@ -70380,7 +70380,6 @@ gtm.scalperatirador.com
 gtm.scandcut.no
 gtm.scandcut.se
 gtm.scclinic.com.br
-gtm.sccompositos.com.br
 gtm.schemesmidias.com.br
 gtm.scooter.co.uk
 gtm.scoreplan.com.br
@@ -98458,7 +98457,6 @@ materialmilk.com
 materialparcel.com
 mateti.net
 mathads.com
-mathcountryside.com
 mathematics34.com
 mathematicsefficiencyburnt.com
 mathematicswhineconvene.com
@@ -105942,7 +105940,6 @@ mto4.tgramsearch.com
 mtowxcwnvhrnr.store
 mtoxbwtcklqlx.website
 mtoxtg.tezenis.com
-mtp.kredytnachwilowki.pl
 mtp.murrelektronik.com
 mtpc.se
 mtpicture.com
@@ -113493,7 +113490,6 @@ ocpsa.competitivecyclist.com
 ocpwlmqdpkdnn.site
 ocqmbcwysestl.website
 ocrlmgqgqlfqt.store
-ocrpsbyzm.com
 ocry.com
 ocs.hagerty.com
 ocs.opodo.fr
@@ -121668,7 +121664,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -134224,6 +134219,7 @@ s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
 s.domob.cn
+s.doyo.cn
 s.dpcq1.net
 s.dpmsrv.com
 s.dreamland-plc.com
@@ -136702,6 +136698,7 @@ scintillatingsilver.com
 scintillatingsycophant.space
 scires.com
 scis.tbs.co.jp
+scispg.smu.edu.sg
 scissors73.top
 scissorsexplainedale.com
 scissorsstatement.com
@@ -150429,14 +150426,23 @@ smtx.lastminute.com.au
 smtx.pensionbybelfius.be
 smtx.travel.com.au
 smu.piercing-xxl.net
+smuacademy.smu.edu.sg
 smuc.cnnfootballclub.com
 smucdn.com
+smucis.smu.edu.sg
+smucityperspectives.smu.edu.sg
 smudgerscaler.cfd
+smuengage.smu.edu.sg
 smuggerpalar.cfd
 smugglerefreshing.com
+smugiving.smu.edu.sg
 smugpsstplus.com
 smume.wearwellow.com
+smumst.smu.edu.sg
+smusoa.smu.edu.sg
+smusoe.smu.edu.sg
 smutstone.com
+smuyphsl.smu.edu.sg
 smv.to
 smvconf.f.360.cn
 smvmtnlvqymso.online
@@ -152818,7 +152824,6 @@ spinachhypocrisy.com
 spinalreferencesgirdle.com
 spinandwin.casino
 spinasale.com
-spinbox.net
 spinbox.techtracker.com
 spinbox.versiontracker.com
 spindl.link
@@ -156294,7 +156299,6 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
@@ -167156,7 +167160,6 @@ sweetmoonmonth.com
 sweetnessbrisk.com
 sweetnessnewest.com
 sweetnessspeaksintimidate.com
-sweetslope.com
 sweetstudents.com
 swelen.com
 swellstocking.com
@@ -179139,7 +179142,6 @@ trk.tuthillpump.com
 trk.twofeeds.com
 trk.ummhealth.org
 trk.updates.juilliard.edu
-trk.urbogym.pl
 trk.urgentcomm.com
 trk.us.vacasa.com
 trk.usahomesavingstoday.com
@@ -181214,6 +181216,7 @@ ugkupyk.lifeblud.co
 uglufuepfcind.space
 uglwov.logic-immo.com
 uglytraining.com
+ugmarketing.smu.edu.sg
 ugmhqqlicdaqg.online
 ugmkqqvmfcylp.website
 ugmqisybzpplo.space
@@ -181233,6 +181236,7 @@ ugvrkxz.my
 ugxjixmdhprzr.site
 ugyokhycezstl.site
 ugyppaqollegn.online
+ugzarn.potterybarn.com.sa
 ugzbsu.klimaworld.com
 ugzlf.bossaudio.com
 uh.nakanohito.jp
@@ -188394,6 +188398,7 @@ web3-chains.com
 web3.pancake.run
 web3ads.net
 web3mobile.g2afse.com
+web3primevault.com
 web4friends.com
 web7.perkinelmer.com
 webads.co.nz
@@ -195311,6 +195316,7 @@ xrotlrpauwlaa.online
 xrqcamarbnhxg.website
 xrqiweauoxfwn.site
 xrqzzumoujvwx.site
+xrrdnzdtma.com
 xrsbwd.eurobuty.com.pl
 xrtb.io
 xrtrdwuttxptw.site
@@ -197536,7 +197542,6 @@ z5.cnzz.com
 z5g022gc.xyz
 z5mw4v9g1a.com
 z5x.net
-z5y.bnnxklj.cn
 z6.cnzz.com
 z60ft9y8lj.com
 z680.beaumontenterprise.com
