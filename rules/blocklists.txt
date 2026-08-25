@@ -15358,7 +15358,6 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
 allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
@@ -16397,6 +16396,7 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
+analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-data.io
@@ -20136,7 +20136,6 @@ api.blog.zuremod.com
 api.blognewz.com
 api.bluevechub.com
 api.blux.ai
-api.botafogofrsocialolimpico.com.br
 api.bounceexchange.com
 api.boutiquedanath.com.br
 api.br.ae.com
@@ -23373,6 +23372,7 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -35652,6 +35652,7 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.sprysmile.com
@@ -38257,7 +38258,6 @@ clickmerkez.com
 clickmeter.com
 clickmetertracking.com
 clickmi.net
-clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clickn.co.kr
@@ -65405,16 +65405,13 @@ fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
 falcesemir.cyou
-falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
-falcopartners.com
 falcopeacing.com
-falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -65776,7 +65773,6 @@ fathom.vagabundo.co
 fathomderelict.com
 fathomdns.com
 fathomexplodedreluctant.com
-fathomseo.com
 fatigueboisterousrequisite.com
 fatiguemataspiration.com
 fatiguerecipes.com
@@ -69237,7 +69233,6 @@ freefromads.com
 freefromads.pro
 freefungames.net
 freegamezone.net
-freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -71034,6 +71029,7 @@ gateway.cloud.sbs.co.kr
 gateway.craftinfocus.com
 gateway.cybertransform.com
 gateway.dbandit.com
+gateway.denso-am.eu
 gateway.euvou.events
 gateway.exoqarys.com
 gateway.five-am.com
@@ -72990,7 +72986,6 @@ globalstars.ru
 globalstats.ekmsecure.com
 globalsun.io
 globalteaser.com
-globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -78969,6 +78964,7 @@ gtm.nostalgia.retrobox.app.br
 gtm.notarypro.ca
 gtm.notazz.com
 gtm.novadigy.com
+gtm.novaiflex.com.br
 gtm.novakute.com
 gtm.novavisaooftalmo.com.br
 gtm.novayorkevoce.com
@@ -84394,7 +84390,6 @@ hotblognetwork.com
 hotboysnearby.net
 hotbwekihu.com
 hotbwilipe.today
-hotbxocajo.today
 hotchat-im.iqiyi.com
 hotcore.info
 hotdate.co.il
@@ -85302,7 +85297,6 @@ hvrhgt.thesun.co.uk
 hvrhgt.thesun.ie
 hvricnk4ab.cfd
 hvrzig.e-domizil.ch
-hvsfbiflxxx.com
 hvteqk.snowleader.com
 hvuihu.undiz.com
 hvuuvjdlqdtwo.space
@@ -87013,7 +87007,6 @@ ilotteryillinois.tt.omtrdc.net
 ilovecheating.com
 ilovemobi.com
 iloveyourdata.universo.work
-iloveyourweewee.bz
 ilpuojxvpvjkr.space
 ilqnef.whipbunny.jp
 ilrbgltq.skabditvarksted.dk
@@ -87446,6 +87439,7 @@ images.learn.follett.com
 images.learn.hitachiconsulting.com
 images.learn.internationalsosfoundation.org
 images.learn.pharmacyclics.com
+images.learn.queenslibrary.org
 images.learn.shredit.com
 images.learn.unisourceworldwide.com
 images.learn.vmware.com
@@ -88707,7 +88701,6 @@ info.aranzadilaley.es
 info.archerdx.com
 info.arclogics.com
 info.ardentsolutionsllc.aleragroup.com
-info.arp.com
 info.arrowheadtownecenter.com
 info.ascassociation.org
 info.asce.org
@@ -90045,7 +90038,6 @@ insights-jobs-ingress.prod.leanplum.com
 insights-mxp.coursecareers.com
 insights-tag.convertkit.com
 insights.academy.com
-insights.accessiblu.com
 insights.aiu.edu.au
 insights.aiu.sg
 insights.algolia.io
@@ -92132,7 +92124,6 @@ jarwressaraced.com
 jas.indeednps.com
 jasaiklan.com
 jashz.crateandbarrel.com
-jasim.luxurydor.com
 jasjas.xyz
 jaskhuczzexoh.site
 jaslenshops.com
@@ -108314,7 +108305,6 @@ m.kwai.com
 m.la71f.cn
 m.ladrillos.ar
 m.laigame7.net
-m.laoqu123.com
 m.lmnts.click
 m.loopme.me
 m.lourawright.com
@@ -137091,6 +137081,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -140367,7 +140358,6 @@ pyrkxp.novafotograf.com
 pyrzoa.kolonnenull.com
 pysdvwrawkwjz.space
 pysfn.benchclearers.com
-pysvfggnwzzf.com
 pyt.mybluehost.me
 pythagore.demdex.net
 python.casuallyprivate.com
@@ -157502,7 +157492,6 @@ server.fh-mittelstand.de
 server.fibraconecta.com.br
 server.fierybd.com
 server.figopetinsurance.com
-server.figurinhasdesucesso.com.br
 server.filomenapaisortodontia.com
 server.financeequity.com.br
 server.findhaven.org
@@ -159826,7 +159815,6 @@ service.ad.adesk.com
 service.arredamentopari.com
 service.athlon.com
 service.bambus-parkett.de
-service.bechtle.com
 service.charitiesaidfoundation.org.uk
 service.cmp.oath.com
 service.danmu.youku.com
@@ -177444,7 +177432,6 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
@@ -181266,7 +181253,6 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
-sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -185019,7 +185005,6 @@ stape.lp.agentesdesonhos.com.br
 stape.lp.amdpromocionais.com.br
 stape.lp.ameliacostura.com.br
 stape.lp.assegura.com.br
-stape.lp.biossegurancasemstress.com.br
 stape.lp.caveo.com.br
 stape.lp.fausp.edu.br
 stape.lp.houseimobiliariadigital.com
@@ -186627,6 +186612,7 @@ stashpatrick.com
 stat-analytics.mediavitrina.ru
 stat-api.gismeteo.net
 stat-api.meteofor.com
+stat-avance.com.br
 stat-collector.totalbattle.com
 stat-common.youku.com
 stat-confluence.escap.un.org
@@ -190393,6 +190379,7 @@ suhvoulwtaxfj.site
 suibianmaimaicom.com
 suicidalruse.com
 suihayz.cfd
+suijidaohxl.top
 suitablecondemntin.com
 suitablepartner.life
 suitablyimmortalspaniel.shop
@@ -191911,7 +191898,6 @@ sypuhe.thelittlegreenbag.nl
 syqhvv.vivense.com
 syrcaufle.cfd
 syrdgbyaktgsw.space
-syrhftrrhcll.com
 syriacgrumose.com
 syrields-trangola.com
 syringesornerssimars.cyou
@@ -191929,6 +191915,7 @@ sys.vidsrev.com
 sys.zhangyue.com
 sys7.msg.xunlei.com
 sysbinder.xyz
+sysmeasuring.net
 sysmon.kakaku.com
 sysomos.com
 sysoutvariola.com
@@ -193445,7 +193432,6 @@ tag.uplift.com
 tag.userreport.com
 tag.vezzi.pl
 tag.vitallsportsclassics.com
-tag.viva-cruises.com
 tag.vlitag.com
 tag.voice.zetacx.net
 tag.waf360.com
@@ -217730,7 +217716,6 @@ wt.viagogo.net
 wt.webstatsdomain.org
 wt2pcw2q4k.cfd
 wt2x6p7j.xyz
-wt3ctg.lol
 wtaccesscontrol.com
 wtag.estlier.net
 wtaphf.descomplica.com.br
@@ -218112,7 +218097,6 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
